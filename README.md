@@ -34,3 +34,4 @@ This project is an AI-powered tool designed to help students identify fake news 
 - **Credibility Analysis**: Uses Machine Learning (PassiveAggressiveClassifier) to label text as "REAL" or "FAKE".
 - **Summarization**: Uses a Transformer model (DistilBART) to generate concise summaries.
 "# fake-news-detector" 
+"# fake-news-detector" 
